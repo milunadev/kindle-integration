@@ -1,0 +1,135 @@
+﻿La_metamorfosis (Franz Kafka)
+- Your Highlight on Location 691-691 | Added on Sunday, November 10, 2024 6:29:17 PM
+
+ya de su habitación, sino de toda la casa, puesto que
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 48 | Location 706-707 | Added on Tuesday, November 12, 2024 8:46:01 AM
+
+frowned upon, for the following reasons: Transparency:
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 49 | Location 718-718 | Added on Tuesday, November 12, 2024 8:48:31 AM
+
+Labels
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 49 | Location 719-719 | Added on Tuesday, November 12, 2024 8:48:49 AM
+
+replication controller, replica sets, and services
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 49 | Location 722-722 | Added on Tuesday, November 12, 2024 8:51:57 AM
+
+prefix and name.
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Note on page 49 | Location 723 | Added on Tuesday, November 12, 2024 8:53:34 AM
+
+Un label se compone de name y prefijo, el prefijo es un dominio DNS, se separan por un slash (/)
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 49 | Location 723-723 | Added on Tuesday, November 12, 2024 8:53:34 AM
+
+valid DNS sub-domain.
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 49 | Location 728-728 | Added on Tuesday, November 12, 2024 8:55:43 AM
+
+associate
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 49 | Location 728-728 | Added on Tuesday, November 12, 2024 8:55:48 AM
+
+metadata with Kubernetes objects.
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 51 | Location 747-748 | Added on Tuesday, November 12, 2024 12:02:06 PM
+
+replication controllers
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 51 | Location 748-748 | Added on Tuesday, November 12, 2024 12:03:51 PM
+
+name equality
+==========
+﻿Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 51 | Location 748-748 | Added on Tuesday, November 12, 2024 12:03:55 PM
+
+replica sets can use set-based selection.
+==========
+Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 62 | Location 886-886 | Added on Monday, November 18, 2024 1:33:22 AM
+
+data store.
+==========
+Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 62 | Location 883-883 | Added on Monday, November 18, 2024 1:33:57 AM
+
+stateless
+==========
+Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 63 | Location 891-891 | Added on Monday, November 18, 2024 1:34:59 AM
+
+collection of various managers
+==========
+Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 63 | Location 891-891 | Added on Monday, November 18, 2024 1:35:03 AM
+
+rolled up into one binary.
+==========
+Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 63 | Location 891-891 | Added on Monday, November 18, 2024 1:35:22 AM
+
+rolled up into one binary.
+==========
+Mastering_Kubernetes (Nigel Poulton)
+- Your Highlight on page 63 | Location 891-892 | Added on Monday, November 18, 2024 1:35:53 AM
+
+replication controller, the pod controller, the services controller, the endpoints controller, and
+==========
+La_paciente_silenciosa (Alex_Michaelides)
+- Your Highlight on page 54 | Location 599-599 | Added on Thursday, November 28, 2024 7:10:20 PM
+
+misterio. Ese cuadro era la única vía de comunicación
+==========
+La_paciente_silenciosa (Alex_Michaelides)
+- Your Highlight on page 141 | Location 1653-1654 | Added on Thursday, November 28, 2024 11:01:04 PM
+
+sería de fiar con ellos.
+==========
+La_paciente_silenciosa (Alex_Michaelides)
+- Your Highlight on page 174 | Location 2067-2067 | Added on Thursday, November 28, 2024 11:26:05 PM
+
+recordaba. Alicia desnuda en su estudio, delante de un lienzo en blanco, pintando
+==========
+El_hombre_de_tiza_C_J_Tudor (Michelle)
+- Your Highlight on page 159 | Location 1971-1971 | Added on Tuesday, December 3, 2024 9:45:21 PM
+
+me hace un poco de daño todos los días solo por existir. Y
+==========
+Carta_de_una_desconocida_Stefan_Zweig (Michelle)
+- Your Highlight on page 5 | Location 24-25 | Added on Wednesday, December 4, 2024 2:32:19 PM
+
+hojeó el periódico y algunos folletos. Después encendió un cigarro y cogió la carta a
+==========
+Dolores_Claiborne_Stephen_King (Michelle)
+- Your Highlight on page 151 | Location 2041-2042 | Added on Sunday, December 8, 2024 10:21:39 PM
+
+le importaban un carajo, ya veis. A Joe le
+==========
+Dolores_Claiborne_Stephen_King (Michelle)
+- Your Highlight on page 245 | Location 3382-3382 | Added on Monday, December 9, 2024 10:50:20 AM
+
+lista como te crees. No tenemos por qué convivir
+==========
+The_Kubernetes_Book_2023 (ML)
+- Your Highlight on page 25 | Location 116-117 | Added on Monday, January 6, 2025 12:46:15 AM
+
+A cloud-native application is one that’s designed to meet cloud-like demands of auto-scaling, self-healing, rolling updates, rollbacks and more.
+==========
+The_Kubernetes_Book_2023 (ML)
+- Your Highlight on page 25 | Location 119-119 | Added on Monday, January 6, 2025 12:47:36 AM
+
+cloud-native is about the way applications behave and react to events.
+==========
